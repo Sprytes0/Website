@@ -1,0 +1,18 @@
+[
+    {
+      "title": "C",
+      "imageSrc": "/assets/skills/clogo.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "/assets/skills/javalogo.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "/assets/skills/cpplogo.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "/assets/skills/pythonlogo.png"
+    }
+  ]

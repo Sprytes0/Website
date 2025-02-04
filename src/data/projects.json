@@ -1,0 +1,18 @@
+[
+    {
+      "title": "PintOS",
+      "imageSrc": "/assets/projects/project.png",
+      "description": "A project to learn Operating Systems by building out the functionality of a skeletal operating system.",
+      "skills": ["C", "Multithreading", "File Systems"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "CSG",
+      "imageSrc": "/assets/projects/CSG.png",
+      "description" : "Built a project that simulates a Constructive Solid Geometry tool found in 3D rendering applications",
+      "skills": ["Ray Marching", "TypeScript" ,"WebGL"],
+      "demo" : "https://cs354-final-project.vercel.app/",
+      "source" : ""
+    }
+  ]

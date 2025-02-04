@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Student",
+      "organisation": "University of Texas at Austin",
+      "startDate": "August, 2020",
+      "endDate": "May, 2024",
+      "experiences": [],
+      "imageSrc": "/assets/history/UTlogo.jpg"
+    },
+    {
+      "role": "Student Helper",
+      "organisation": "Baylor College of Medicine",
+      "startDate": "June, 2022",
+      "endDate": "Aug, 2022",
+      "experiences": ["Collaborated with a team of engineers to resolve mechanical failures and provide general maintenance and upkeep of the Baylor campus."],
+      "imageSrc": "/assets/history/baylor.jpg"
+    }
+  ]
