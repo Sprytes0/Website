@@ -4,7 +4,7 @@ import styles from './About.module.css'
 import aboutImage from '../../../assets/about/GradMe.png';
 import colab from '../../../assets/about/colab.png';
 import multithread from '../../../assets/about/multithread.png';
-import OpenGL from '../../../assets/about/aws.png';
+import aws from '../../../assets/about/aws.png';
 
 export const About = () => {
     return <section className={styles.container} id="about">
@@ -33,7 +33,7 @@ export const About = () => {
                 </div>
             </li>
             <li className={styles.aboutSection}>
-                <img src={OpenGL} alt="OpenGL" className={styles.textImage}/>
+                <img src={aws} alt="aws" className={styles.textImage}/>
                 <div className={styles.aboutText}>
                     <h3> Further Learning</h3>
                     <p> Currently enrolled in online courses to learn and earn certificates,
